@@ -18,7 +18,7 @@ In multi-class classification, the neural network has the same number of output 
 4. Using a for loop, plot the points using scatter function
 
 ## Program:
-```
+```python
 /*
 Program to implement the multi class classifier.
 Developed by: Dineshkumar.S
