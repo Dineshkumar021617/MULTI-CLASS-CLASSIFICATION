@@ -1,5 +1,5 @@
-### Ex No: 03
-### Date:
+### EX NO: 03
+### DATE:
 # <p align="center">MULTI-CLASS-CLASSIFICATION</p>
 ## Aim:
 To write a python program to implement the multi class classification algorithm .
